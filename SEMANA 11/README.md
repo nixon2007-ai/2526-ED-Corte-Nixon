@@ -82,13 +82,12 @@ El sistema muestra 20 frases en español y 20 frases en inglés para práctica.
 
 ## Características del Proyecto
 
-✔ Contiene más de 100 palabras base  
-✔ Traducción bidireccional  
-✔ No distingue entre mayúsculas y minúsculas  
-✔ Permite agregar nuevas palabras dinámicamente  
-✔ Uso de expresiones regulares  
-✔ Interfaz sencilla basada en consola  
-
+Contiene más de 100 palabras base  
+Traducción bidireccional  
+No distingue entre mayúsculas y minúsculas  
+Permite agregar nuevas palabras dinámicamente  
+Uso de expresiones regulares  
+Interfaz sencilla basada en consola  
 
 
 ## Cómo Ejecutarlo
@@ -121,5 +120,8 @@ Este proyecto fue desarrollado con fines educativos para reforzar:
 - Creación de menús interactivos en consola.
 
 
+## Evidencia de los resultados de la ejecucuión en Visual Code Studio
+
+<img width="886" height="469" alt="image" src="https://github.com/user-attachments/assets/112ad72b-f741-4968-b00c-a439c4f3d6b1" />
 
 Proyecto académico desarrollado por Nixon Dario Corte Salinas.
