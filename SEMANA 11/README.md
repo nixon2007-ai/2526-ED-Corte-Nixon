@@ -120,7 +120,7 @@ Este proyecto fue desarrollado con fines educativos para reforzar:
 - Creación de menús interactivos en consola.
 
 
-## Evidencia de los resultados de la ejecucuión en Visual Code Studio
+## Evidencia de los resultados de la ejecución en Visual Code Studio
 
 <img width="886" height="469" alt="image" src="https://github.com/user-attachments/assets/112ad72b-f741-4968-b00c-a439c4f3d6b1" />
 
